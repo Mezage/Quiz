@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="lab">The Labyrinth Question: 1</string>
+    <string name="lab2">The Labyrinth Question: 2</string>
+
+    <string name="question">How did David Bowie practice for the ball juggling scenes in the movie?</string>
+    <string name="question1">What was Sarah\'s favorite stuffed animal?</string>
+    <string name="question2">What fruit did Jareth give to Hoggle? (You get 2 tries)</string>
+
+    <array name="option1">
+        <item>He already knew how to do it</item>
+        <item>The director\'s bother helped teach him</item>
+        <item>They cropped in another person\'s arm for the scenes</item>
+    </array>
+    <array name="option2">
+        <item>Bear</item>
+        <item>Kangaroo</item>
+        <item>Penguin</item>
+    </array>
+
+    <string name="start">Start Quiz</string>
+    <string name="button">Submit Answer</string>
+    <string name="winRatio">Show Win Ratio</string>
+    <string name="retry">Retry Quiz</string>
+
+    <string name="worldSwitch">Overall</string>
+    <string name="quesSwitch">Question</string>
+    <string name="normal">Normal</string>
+    <string name="image">Image</string>
+
+    <string name="choose">Where to display Win Ratio?</string>
+    <string name="title_activity_short_answer">ShortAnswer</string>
+
+    <string name="setting">Quiz Settings</string>
+    <string name="timeToggle">Timers</string>
+    <string name="timeDesc">*Toggle which timers you would like to see during the quiz</string>
+    <string name="limit">Time Limit</string>
+    <string name="limitDecs">*A user established timer for each question (in secs)</string>
+    <string name="hint">ex: 20</string>
+    <string name="buttonstyle">Button Style</string>
+    <string name="outTime">Out of time! Try again!</string>
+
+    <string name="channel_name">Notification Channel</string>
+    <string name="channel_description">For use of timer notifications</string>
+
+</resources>
